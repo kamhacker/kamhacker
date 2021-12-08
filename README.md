@@ -11,7 +11,9 @@ It's the place where I share my knowledge and learnings in a completely disorder
 
 ### Connect with me:
 
-[<img align="left" alt="kamhacker | LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" />](https://www.linkedin.com/in/kamal-Aiboussi)
+[<img align="left" alt="kamhacker | LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png" />](https://www.linkedin.com/in/kamal-Aïboussi)
+
+<br />
       
 ### Languages and tools
  
